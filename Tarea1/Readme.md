@@ -285,7 +285,7 @@ Al ejecutar el programa, este tomará el codigo IATA del aeropuerto, para nombra
 
 *  **aeropuertos.csv**:  Es la base de datos que contiene la informacion de los aeropuertos, ciudades y paises del mundo.
 
-*  **vuelos.csv**:  Es la base de datos que contiene la informacion de los vuelos, el algoritmo lee esta base de datos como **nodoOrigen;nodoDestino; costo**.  Si se desean añadir más aristas al ejercicio es necesario usar el mismo formato de cada linea, es decir, separado por punto y coma**(;)**
+*  **vuelos.csv**:  Es la base de datos que contiene la informacion de los vuelos, el algoritmo lee esta base de datos como **nodoOrigen;nodoDestino; costo**.  Si se desean añadir más aristas al ejercicio es necesario usar el mismo formato de cada linea, es decir, separado por punto y coma **(;)**
 
 |origen|destino|precio|
 |------|-------|------|
