@@ -38,7 +38,7 @@ Para la resolución de este problema se optó por el algoritmo de Dijkstra para 
 
 El programa consta de 4 archivos:
 
-* **diskstra.py** :   Es modulo que contiene el algoritmo de diskstra, el cual es llamado desde el ejercicio4.py
+* **dijkstra.py** :   Es modulo que contiene el algoritmo de diskstra, el cual es llamado desde el ejercicio4.py
 
 * **ejercicio4.py** :  Es el programa principal, requiere python 3. Para su ejecucion se debe realizar desde la terminal con el comando:
 
