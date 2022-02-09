@@ -298,3 +298,15 @@ Al ejecutar el programa, este tomará el codigo IATA del aeropuerto, para nombra
 |AGP   |ANF    |100000|
 |AGP   |AGT    |300000|
 |AGT   |ANF    |100000|
+
+
+## Ejercicio 5
+
+Una ciudad se diseño de tal modo que todas sus calles fueran de una sola vía. Con el paso
+del tiempo la cantidad de habitantes de la ciudad creció y esto produjo grandes trancones en
+algunas de las vias debido a algunos desvíos innecesarios que tienen que tomar los habitantes
+de la ciudad para poder llegar a sus trabajos. Por lo tanto, el alcalde tomó la decisión de
+ampliar algunas vias para que puedan convertirse en doble via. Dado el mapa de la ciudad y el
+costo de convertir cada via actual en doble via, determinar qué vias se deben convertir, de
+modo que se pueda transitar de cualquier punto a cualquier punto de la ciudad por dobles vias
+y que el costo de la conversión sea el mínimo posible.
