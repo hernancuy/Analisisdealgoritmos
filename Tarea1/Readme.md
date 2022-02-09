@@ -1,6 +1,6 @@
 # Analisis de algoritmos
 **Carlos Torres    Código: 201815476**
-**Hernan Cuy      Código: 202019100**
+**Hernan Cuy      Código: 202010199**
 
 # Tarea 1 
 
