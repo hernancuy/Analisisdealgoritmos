@@ -23,7 +23,7 @@ Digite el numero de bits, el rango va de 3 a 1024:
 ```
 Alli podremos colocar el numero de bits que queremos para nuestros numeros primos ***p*** y ***q***.
 
-En el ejemplo solicitamos primos de **5** bits, el programa nos genera automaticamente dos numeros que cumplan con esta condición, en este caso el **19 **y el **23**
+En el ejemplo solicitamos primos de **5** bits, el programa nos genera automaticamente dos numeros que cumplan con esta condición, en este caso el **19** y el **23**
 ```
 Tarea 4
 Digite el numero de bits, el rango va de 3 a 1024:
