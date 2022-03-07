@@ -5,7 +5,7 @@ Carlos Andres Torres Echavarria
 
 
 -----------------
-## # RSA-Miller-Rabin-Java
+## RSA-Miller-Rabin-Java
 
 La implementación del algoritmo RSA en Java se realizó de acuerdo al algoritmo nombrado en Algorthms Unlocked (Cormen 2013) en el cual se describe el proceso y paso a paso de su creación. 
 
@@ -50,6 +50,6 @@ El valor de ***e*** se obtiene de seleccionar un entero impar que es  primo rela
 
 El computo de* **d*** lo obtenemos como el multiplicador inverso de **e**, modurlo ***r***, para el ejemplo **317**
 
-Hasta el momento, ya tendríamos los valores necesarios para generar nuestros ***P=(e, n)*** y ***S(d, n)*** los cuales, para esta ejecución fueron*** P (5,437)*** y* **S (317,437)***.
+Hasta el momento, ya tendríamos los valores necesarios para generar nuestros ***P=(e, n)*** y ***S(d, n)*** los cuales, para esta ejecución fueron ***P (5,437)*** y ***S (317,437)***.
 
 Finalmente podemos hacer la encripcion y descripción con nuestros datos obtenidos de un valor solicitado.
