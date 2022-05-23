@@ -49,3 +49,26 @@ def load_graph(filename):
 
 if __name__ == "__main__":
     main()
+
+"""
+from collections import defaultdict
+
+defaultdict_demo = defaultdict(set)
+
+defaultdict_demo[1].add(3)
+defaultdict_demo[2].add(2)
+defaultdict_demo[3].add(1)
+
+print(len(defaultdict_demo))
+#defaultdict_demo['one'].remove('1')
+#defaultdict_demo.popitem()
+
+for k,v in defaultdict_demo.items():
+  #print (f"{k} - {v}")
+  defaultdict_demo[k].add(3)
+  print(dict(defaultdict_demo.items()))
+  defaultdict_demo[k].remove(3)
+  print(dict(defaultdict_demo.items()))
+
+print(dict(defaultdict_demo.items()))
+"""
